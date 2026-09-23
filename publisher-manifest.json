@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2dc9d5bbe6cf35618652b494",
+  "owner": "wkyaxrbu",
+  "repo": "page-fcd45e6292d32fc8ba4871f4",
+  "title": "熊猫云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fcd45e6292d32fc8ba4871f4",
+      "a": "熊猫云",
+      "b": "2027最新官网",
+      "entity": "熊猫云",
+      "brand": "熊猫云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5cc4a1148d824296b1716dc71e32a232bce9911ee3a2b5699f24bb3c30a03610",
+      "content": {
+        "primary_entity": "熊猫云",
+        "keyword1": "熊猫云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，Windows、macOS、Android、iOS 与路由器端均有对应方案，配置时以各客户端文档为准。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "按套餐与设备需求快速筛选，即刻配置熊猫云订阅。",
+          "AI_CLOSING_TITLE": "选好套餐，开始使用",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，分别面向个人轻度使用、多设备流媒体与游戏加速、以及企业团队协作场景。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备并搭载 IPLC 专线；团队版每月 1000GB 流量、支持 20 台设备。按年付可享更优惠价格，订阅周期灵活，用户可根据实际设备数量与流量消耗选择适配方案。",
+          "AI_FEATURES_INTRO": "从流量、设备数与专线能力对比套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备同时在线。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，5 台设备并含 IPLC 专线。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备与定制路由。",
+          "AI_FEATURE_TITLE_1": "流量规格",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "团队协作",
+          "AI_GUIDE_INTRO": "按需求选择套餐，确认设备适配，导入订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "熊猫云提供基础版、旗舰版与团队版三档套餐，覆盖个人日常浏览到企业团队协作。基础版适合 3 台设备以内的轻度使用，旗舰版面向需要流媒体解锁与 IPLC 专线游戏加速的 5 台设备用户，团队版则服务 20 台设备与定制路由需求。",
+          "AI_HERO_SUBTITLE": "灵活套餐适配多设备加速",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "按年付享优惠价格",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按流量与设备数选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与流量需求，在基础版、旗舰版与团队版中选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备支持列表，确认客户端适配要求。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅配置，完成后即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "熊猫云套餐一览",
+          "AI_FAQ_ANSWER_1": "登录会员中心复制订阅链接，在所选客户端中粘贴导入，更新节点列表后选择延迟较低的节点连接即可。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台同时在线，超出后需要升级套餐或断开部分设备。",
+          "AI_FAQ_ANSWER_3": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，流量按自然月刷新，未用完部分不结转到下月。",
+          "AI_FAQ_ANSWER_4": "基础版适配日常浏览与基础流媒体，旗舰版带 IPLC 专线与全节点原生流媒体解锁，团队版适合多设备高带宽场景。",
+          "AI_FAQ_ANSWER_5": "可以，年付方案分别为基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，折算月均价格低于按月支付。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、流量周期与付费方式。",
+          "AI_FAQ_QUESTION_1": "如何把熊猫云订阅导入客户端？",
+          "AI_FAQ_QUESTION_2": "一个套餐最多能让几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "每月流量额度是多少，用不完会保留吗？",
+          "AI_FAQ_QUESTION_4": "基础版和旗舰版的线路有什么区别？",
+          "AI_FAQ_QUESTION_5": "熊猫云可以按年付费吗？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "juziyunjc.com",
+    "host": "juziyunjc.com"
+  },
+  "file_hashes": {
+    "index.html": "eee26c9669ca5dee644fadcd25b31d3e0fb886d65ef1c01b0f14afa4c566a531",
+    "sitemap.xml": "0c41c9e9cc8baeef9027a2c2e98187f30393e52c6e990fd9fbf7123549f26e60",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0c9b008b281e47c687934789d9fc4c4e7a671efbf12932c89f7391bd4a393a5f",
+    "robots.txt": "ce0de4e8d04b470ec9a1d485832ff9b9bca47851226a5b3bc992f08c8aa3faca",
+    "5767b7e116d30a2f71c6a9f3b78e5265.txt": "a4fcfd475f5c8bcf87735c14b694f8b8a1a46992db3070f7a41bc75a9094a7da"
+  },
+  "revision": "7f73a8ff2dfc0306affdfb6b9cfb8c79df7e1032d31121d70778d71aafb2096e"
+}
